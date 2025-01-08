@@ -1,0 +1,17 @@
+# Unreal Engine Specific
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.sln
+*.vcxproj*
+*.opensdf
+*.sdf
