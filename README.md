@@ -39,5 +39,8 @@
 이를 구현한다면 아래와 같은 클래스가 될 것 입니다.(꼭 따라하실 필요는 없고 참조만 하세요)
 ![image](https://github.com/user-attachments/assets/67c7f780-3f9f-4a8a-9b2d-0a47a7b8bd89)
 
-## 평가 기준 
+## 실행 결과
+
+![도전](https://github.com/user-attachments/assets/825d40a9-cbc6-4a6e-907b-ca127d5ca010)
+
 
